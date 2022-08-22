@@ -47,3 +47,5 @@ Uses folium to generate an interactive map with locations labeled with location 
 ## Acknowledgements
 
 The geoparser used in this project is [morcedai](https://github.com/openeventdata/mordecai).
+
+For further inquiries, please contact jasminelu23@gmail.com
