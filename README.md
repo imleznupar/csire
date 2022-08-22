@@ -1,6 +1,6 @@
 # CSIRE
 
-A project that aims to enhance the rapid disaster response of USGS PAGER by analyzing casualty information collected from social media.
+A project that aims to enhance the rapid earthquake response by analyzing casualty information collected from social media.
 
 ## Requirements
 
