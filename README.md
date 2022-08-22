@@ -25,7 +25,7 @@ The following libraries are required:
 ```python
 python runner.py "input_path" "country_code"
 ```
-3. The file 'map.html' will be generated, which is an interactive map of the casualty information. Also, 'processed.csv' can give more detailed information of the map.
+3. The file 'casualtyMap.html' will be generated, which is an interactive map of the casualty information. Also, 'processed.csv' can give more detailed information of the map.
 
 ## Example
 Using 'example.csv' input file, the program should out the map below:
