@@ -43,6 +43,13 @@ A custom named entity recognizer trained with [StanfordNERTagger](https://nlp.st
 #### Generate Map
 Uses folium to generate an interactive map with locations labeled with location name, number of deaths, injures, and missings.
 
+## Key Learnings
+* PAGER System
+* NLP 
+  * Text Cleaning
+  * Named Entity Recognizer
+* Geoparsing
+
 
 ## Acknowledgements
 
